@@ -1,13 +1,13 @@
 # Data Scientist
 
 #### Technical Skills: 
-Languages: Python - (Numpy, Pandas), Wolfram - Mathematica
-Cloud Services:AWS
-Developer Tools and Databases: Docker, Git, Jupyter Notebooks, Visual Studio, MongoDB, SQL
-Machine Learning/AI: TensorFlow, Keras, PyTorch, scikit-learn, Deep Learning
-Visualization Tools: Tableau, PowerBI, Python - Seaborn, Matplotlib
-Data Science Concepts: A/B testing, ETL, Data science pipeline (cleansing, wrangling, interpretation, modeling)
-Statistics, Time series, Experimental design, Hypothesis testing, APIs, Excel
+- Languages: Python - (Numpy, Pandas), Wolfram - Mathematica
+- Cloud Services:AWS
+- Developer Tools and Databases: Docker, Git, Jupyter Notebooks, Visual Studio, MongoDB, SQL
+- Machine Learning/AI: TensorFlow, Keras, PyTorch, scikit-learn, Deep Learning
+- Visualization Tools: Tableau, PowerBI, Python - Seaborn, Matplotlib
+- Data Science Concepts: A/B testing, ETL, Data science pipeline (cleansing, wrangling, interpretation, modeling)
+- Statistics, Time series, Experimental design, Hypothesis testing, APIs, Excel
 
 ## Education							       		
 - M.Sc., Data Science	| University of Aberdeen at Aberdeen (_November 2023_)	 			        		
