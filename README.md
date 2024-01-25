@@ -2,7 +2,7 @@
 
 #### Technical Skills: 
 - Languages: Python - (Numpy, Pandas), Wolfram - Mathematica
-- Cloud Services:AWS
+- Cloud Services: AWS
 - Developer Tools and Databases: Docker, Git, Jupyter Notebooks, Visual Studio, MongoDB, SQL
 - Machine Learning/AI: TensorFlow, Keras, PyTorch, scikit-learn, Deep Learning
 - Visualization Tools: Tableau, PowerBI, Python - Seaborn, Matplotlib
