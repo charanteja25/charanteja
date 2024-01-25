@@ -10,8 +10,8 @@
 - Statistics, Time series, Experimental design, Hypothesis testing, APIs, Excel
 
 ## Education							       		
-- M.Sc., Data Science	| University of Aberdeen at Aberdeen (_November 2023_)	 			        		
-- B.Tech., Mechanical Engineering | JNTU - Kakinada (_November 2017_)
+- M.Sc., Data Science	 |  University of Aberdeen at Aberdeen (_November 2023_)	 			        		
+- B.Tech., Mechanical Engineering |  JNTU - Kakinada (_November 2017_)
 
 ## Work Experience
 **Research Assistant @ TOSSIB @ University of Aberdeen (_November 2022 - October 2023_)**
