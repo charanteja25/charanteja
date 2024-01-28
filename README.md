@@ -28,7 +28,7 @@
 - Leadership and Collaboration: Led and mentored a team of transportation associates while aligning transportation strategies with business requirements.
 
 ## Projects
-### Pred. of Electricity in UK quantifying Renewable sources
+### Prediction of Electricity in UK quantifying Renewable sources
 - Led a machine learning project that improved electricity price predictions by 18% through the development of predictive models using Regression, Time Series analysis, and neural networks achieving a 12% enhancement in accuracy while considering demand, supply, and renewable energy factors.
 - Conducted extensive data analysis, revealing correlations between electricity prices and renewable energy integration.
 - Demonstrated how renewable energies reduced price volatility by 27% and decreased reliance on traditional energy.
