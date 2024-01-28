@@ -5,7 +5,7 @@
 - Languages: Python - (Numpy, Pandas), Wolfram - Mathematica,![My Skills](https://skillicons.dev/icons?i=py,mysql,mongodb,tensorflow)
 - Cloud Services: AWS
 - Developer Tools and Databases: Docker, Git, Jupyter Notebooks, Visual Studio, MongoDB, SQL
-- Machine Learning/AI: ![image]({BadgeURLHere[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)}), Keras, PyTorch, scikit-learn, Deep Learning
+- Machine Learning/AI: <img src="{BadgeURLHere{BadgeURLHere[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)}" />, Keras, PyTorch, scikit-learn, Deep Learning
 - Visualization Tools: Tableau, PowerBI, Python - Seaborn, Matplotlib
 - Data Science Concepts: A/B testing, ETL, Data science pipeline (cleansing, wrangling, interpretation, modeling)
 - Statistics, Time series, Experimental design, Hypothesis testing, APIs, Excel
