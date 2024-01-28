@@ -1,8 +1,8 @@
 # Data Scientist
 
 #### Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,mongodb,tensorflow)](https://skillicons.dev) 
-- Languages: Python - (Numpy, Pandas), Wolfram - Mathematica
+[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,mongodb,tensorflow)] 
+- Languages: Python - (Numpy, Pandas), Wolfram - Mathematica, [![My Skills](https://skillicons.dev/icons?i=js,py,mysql,mongodb,tensorflow)] 
 - Cloud Services: AWS
 - Developer Tools and Databases: Docker, Git, Jupyter Notebooks, Visual Studio, MongoDB, SQL
 - Machine Learning/AI: TensorFlow, Keras, PyTorch, scikit-learn, Deep Learning
