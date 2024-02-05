@@ -33,8 +33,18 @@
 - Conducted extensive data analysis, revealing correlations between electricity prices and renewable energy integration.
 - Demonstrated how renewable energies reduced price volatility by 27% and decreased reliance on traditional energy.
 
-### Zomato prediction of business
-- Cleaning the data, Performing Exploratory Data Analysis preparing data to perform Regression Analysis to predict the places to concentrate on business.
+### A/B Testing Project: Cookie Cats Game
+
+**Objective:** Investigated the impact of gate placement on player retention in Cookie Cats, leveraging A/B testing methodologies.
+
+- Conducted rigorous A/B testing experiments with gates positioned at levels 30 and 40.
+- Identified a significant increase in 7-day retention rates when the gate was placed at level 30.
+- Explored the concept of hedonic adaptation and its unexpected influence on player engagement.
+- Analyzed additional metrics including game rounds played and in-game purchases to gain comprehensive insights.
+- Fostered community engagement and discussions surrounding A/B testing methodologies and user experience design.
+- Maintained project transparency and collaboration through a dedicated GitHub repository.
+
+**Outcome:** Contributed to a deeper understanding of user behavior in gaming environments and provided actionable insights for enhancing player experiences in Cookie Cats.
 
 
 
